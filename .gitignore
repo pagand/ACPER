@@ -1,2 +1,6 @@
 wandb/*
 .venv/*
+*.onnx
+*.pth
+models/*
+runs/*
